@@ -7,5 +7,5 @@ Topico:
 - Pendiente
 
 
-![Imagen](https://hackconrd.org/wp-content/uploads/2024/12/logo1200x600-1.png)
+![](https://dt-cdn.net/wp-content/uploads/2022/05/DevSecOps-1.jpg)
 
