@@ -7,5 +7,5 @@ Topico:
 - Pendiente
 
 
-![](https://hackconrd.org/wp-content/uploads/2024/12/logo1200x600-1.png)
+![Imagen](https://hackconrd.org/wp-content/uploads/2024/12/logo1200x600-1.png)
 
