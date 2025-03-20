@@ -1,0 +1,14 @@
+| Herramienta                         | Licencia                                                | Descripción                                                                                           |
+|------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **OWASP ZAP (Zed Attack Proxy)**    | ✅ Open-source                                           | La mejor opción gratuita, ideal para pentesting web y automatización.                                 |
+| **Nikto**                           | ✅ Open-source                                           | Escáner de seguridad para servidores web, detecta configuraciones débiles.                            |
+| **Wapiti**                          | ✅ Open-source                                           | Escanea aplicaciones web en busca de vulnerabilidades comunes.                                       |
+| **Arachni**                         | ✅ Open-source                                           | Escáner web especializado en inyección SQL, XSS y configuración insegura.                             |
+| **Skipfish**                        | ✅ Open-source                                           | Escáner rápido de aplicaciones web, desarrollado por Google.                                          |
+| **Burp Suite Community**           | ✅ Open-source (Community) / 💰 De pago (Pro/Enterprise) | La versión gratuita es limitada, mientras que la de pago ofrece mayor automatización y funcionalidades. |
+| **MobSF (Mobile Security Framework)** | ✅ Open-source                                         | Análisis DAST y SAST para aplicaciones móviles (Android/iOS), ideal para pentesters y DevSecOps.       |
+| **Frida**                           | ✅ Open-source                                           | Framework de instrumentación en tiempo de ejecución, útil para manipular apps móviles y detectar vulnerabilidades en ejecución. |
+| **Acunetix**                        | 💰 De pago                                               | Escaneo DAST avanzado con integración en CI/CD.                                                       |
+| **Netsparker (Invicti)**           | 💰 De pago                                               | Muy preciso en la detección de vulnerabilidades web.                                                  |
+| **HCL AppScan (antes IBM AppScan)** | 💰 De pago                                              | Ofrece detección avanzada con integración en DevSecOps.                                               |
+| **Veracode DAST**                   | 💰 De pago                                               | Plataforma en la nube enfocada en seguridad web y APIs.                                               |
